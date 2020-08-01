@@ -1,4 +1,8 @@
 #!/usr/bin/env node
 const app = require('./app');
 
-app.askQuestions().then((answers) => app.generateReadme(answers));
+try {
+  app.askQuestions().then((answers) => app.generateReadme(answers));
+} catch (error) {
+  console.error(error);
+}
