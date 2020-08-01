@@ -1,8 +1,6 @@
-# ReadmeBuddy!
+# a thing
 
-![License: Apache-2.0](https://img.shields.io/badge/license-Apache%202.0-green.svg)
-
-![screenshot](assets/readme/screenshot.jpg)
+![License: GPL-2.0](https://img.shields.io/badge/license-GPL%202.0-green.svg)
 
 ###
 
@@ -10,7 +8,7 @@
 
 ---
 
-Automatically generate professional, high-quality README files for your projects!
+it's some kind of a thing
 
 ## Table of Contents
 
@@ -27,13 +25,13 @@ Automatically generate professional, high-quality README files for your projects
 
 ---
 
-Download this repository into a directory on your PC, then run "npm install" in that directory.
+blah blah download blah blah npm install etc.
 
 ## Usage
 
 ---
 
-Run "cli.js" in the directory ReadmeBuddy was installed in.
+cd directory && './cli.js'
 
 ## License
 
@@ -41,11 +39,11 @@ Run "cli.js" in the directory ReadmeBuddy was installed in.
 
 Copyright 2020 gminteer@gmail.com
 
-Licensed under the Apache-2.0 License (the "License");
+Licensed under the GPL-2.0 License (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-<http://opensource.org/licenses/Apache-2.0>
+<http://opensource.org/licenses/GPL-2.0>
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,
@@ -57,13 +55,13 @@ limitations under the License.
 
 ---
 
-Contact me via GitHub or email.
+blah blah pull requests etc.
 
 ## Tests
 
 ---
 
-TODO: write tests.
+TODO: write tests
 
 ## Questions
 
@@ -72,3 +70,4 @@ TODO: write tests.
 Any additional questions? Comments? Contact me on [GitHub](https://github.com/gminteer) or email me at [gminteer@gmail.com](mailto:gminteer@gmail.com).
 
 ![Powered by <3 emojis](https://img.shields.io/badge/made%20with-%F0%9F%92%96-lightgrey.svg)
+
