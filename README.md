@@ -10,7 +10,7 @@
 
 ---
 
-Automatically generate professional, high-quality README files for your projects!
+Automatically generate professional, high-quality README files [like this](assets/readme/SAMPLE.md) for your projects.
 
 ## Table of Contents
 
