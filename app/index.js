@@ -1,5 +1,5 @@
-const inquirer = require('inquirer');
 const fs = require('fs');
+const inquirer = require('inquirer');
 // separating the question list and readme template into their own files makes this a lot more readable.
 const questions = require('./questions');
 const readmeTemplate = require('./readme-template');
