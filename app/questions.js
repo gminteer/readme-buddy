@@ -68,6 +68,6 @@ module.exports = [
   {
     name: 'email',
     type: 'input',
-    message: 'What if your email address?',
+    message: 'What is your email address?',
   },
 ];
